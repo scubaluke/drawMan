@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/drawman/static/css/main.d9e6bc6d.chunk.css",
+    "main.js": "/drawman/static/js/main.6b272c02.chunk.js",
+    "main.js.map": "/drawman/static/js/main.6b272c02.chunk.js.map",
+    "runtime-main.js": "/drawman/static/js/runtime-main.9d8ea981.js",
+    "runtime-main.js.map": "/drawman/static/js/runtime-main.9d8ea981.js.map",
+    "static/js/2.d605207b.chunk.js": "/drawman/static/js/2.d605207b.chunk.js",
+    "static/js/2.d605207b.chunk.js.map": "/drawman/static/js/2.d605207b.chunk.js.map",
+    "static/js/3.12ddec96.chunk.js": "/drawman/static/js/3.12ddec96.chunk.js",
+    "static/js/3.12ddec96.chunk.js.map": "/drawman/static/js/3.12ddec96.chunk.js.map",
+    "index.html": "/drawman/index.html",
+    "static/css/main.d9e6bc6d.chunk.css.map": "/drawman/static/css/main.d9e6bc6d.chunk.css.map",
+    "static/js/2.d605207b.chunk.js.LICENSE.txt": "/drawman/static/js/2.d605207b.chunk.js.LICENSE.txt",
+    "static/media/img1.76dd47aa.png": "/drawman/static/media/img1.76dd47aa.png",
+    "static/media/img2.292ebf32.png": "/drawman/static/media/img2.292ebf32.png",
+    "static/media/img3.5e993991.png": "/drawman/static/media/img3.5e993991.png",
+    "static/media/img4.f793d81f.png": "/drawman/static/media/img4.f793d81f.png",
+    "static/media/img5.3e4f3b3e.png": "/drawman/static/media/img5.3e4f3b3e.png",
+    "static/media/img6.ab39c983.png": "/drawman/static/media/img6.ab39c983.png",
+    "static/media/logo.6ce24c58.svg": "/drawman/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9d8ea981.js",
+    "static/js/2.d605207b.chunk.js",
+    "static/css/main.d9e6bc6d.chunk.css",
+    "static/js/main.6b272c02.chunk.js"
+  ]
+}
